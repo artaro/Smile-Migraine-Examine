@@ -1,0 +1,22 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="14" cy="14" r="12.5" fill="#9AFFCB" stroke="#25AC67" stroke-width="3"/>
+<path d="M8.65453 16.8002H18.8363V22.9093H8.65453V16.8002Z" fill="url(#paint0_radial_1_275)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.67337 15.7818L18.3279 15.7818C18.1958 18.0531 16.3089 19.8542 14.0006 19.8542C11.6924 19.8542 9.8055 18.0531 9.67337 15.7818Z" fill="#008425"/>
+<mask id="mask0_1_275" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="9" y="15" width="10" height="5">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.67337 15.7818L18.3279 15.7818C18.1958 18.0531 16.3089 19.8542 14.0006 19.8542C11.6924 19.8542 9.8055 18.0531 9.67337 15.7818Z" fill="#902F00"/>
+</mask>
+<g mask="url(#mask0_1_275)">
+<rect x="19.8546" y="16.8001" width="11.7091" height="1.01818" transform="rotate(-180 19.8546 16.8001)" fill="white"/>
+<ellipse cx="13.9998" cy="21.1274" rx="4.32727" ry="2.8" transform="rotate(-180 13.9998 21.1274)" fill="#00AC30"/>
+</g>
+<rect x="17.3091" y="10.6905" width="3.05455" height="3.56364" rx="1.52727" fill="#0C8B4A"/>
+<rect x="7.63644" y="10.6905" width="3.05455" height="3.56364" rx="1.52727" fill="#0C8B4A"/>
+<path d="M21.6676 9.43097C21.0936 8.73916 19.4445 7.54183 17.4403 8.28696" stroke="#38CF82" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.10922 9.46222C6.68326 8.77041 8.33238 7.57308 10.3365 8.31821" stroke="#38CF82" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_radial_1_275" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13.7454 18.3275) rotate(85.2364) scale(3.06513 5.10856)">
+<stop stop-color="#25AC67"/>
+<stop offset="1" stop-color="#25AC67" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
