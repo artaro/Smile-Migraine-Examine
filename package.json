@@ -1,6 +1,6 @@
 {
   "name": "smile-migraine-examine",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://artaro.github.io/Smile-Migraine-Examine/",
